@@ -48,6 +48,7 @@ Interactive Retail Sales Dashboard created using Microsoft Excel to analyze sale
 ## Files
 
 Retail_Sales_Dashboard.xlsx - Excel Dashboard file
+https://github.com/jayanthi1432/Retail-Sales-Dashboard-using-excel/blob/main/Retail_Sales_Dashboard.xlsx
 
 ## Author
 
