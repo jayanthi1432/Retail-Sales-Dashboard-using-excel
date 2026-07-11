@@ -49,7 +49,16 @@ Interactive Retail Sales Dashboard created using Microsoft Excel to analyze sale
 
 Retail_Sales_Dashboard.xlsx - Excel Dashboard file
 https://github.com/jayanthi1432/Retail-Sales-Dashboard-using-excel/blob/main/Retail_Sales_Dashboard.xlsx
+## Skills & Tools Used
 
+- Microsoft Excel
+- Data Analysis
+- Data Analytics
+- Pivot Tables
+- Excel Dashboard
+- Sales Dashboard
+- Business Intelligence
+- Data Visualization
+- 
 ## Author
-
 Jayanthi Surla
