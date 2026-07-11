@@ -35,7 +35,7 @@ Interactive Retail Sales Dashboard created using Microsoft Excel to analyze sale
 
 ## Dashboard Preview
 
-![Retail Sales Dashboard](dashboard_preview.png)
+![Retail Sales Dashboard](dashboard.png)
 
 ## Key Insights
 
