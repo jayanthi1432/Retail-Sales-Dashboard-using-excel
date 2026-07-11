@@ -1,5 +1,6 @@
 # Retail-Sales-Dashboard-using-excel
 Interactive Retail Sales Dashboard built in Microsoft Excel using Pivot Tables, Charts, Slicers, KPI Cards, and Data Analysis.
+The project contains raw data, data cleaning steps, pivot table analysis, business insights, and an interactive Excel dashboard.
 # Retail Sales Dashboard
 
 ## Project Overview
